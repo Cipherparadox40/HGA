@@ -1,0 +1,274 @@
+﻿# Canada - CAN
+can_general_burstall = {
+	dna = dna_henry_burstall
+	first_name = Henry
+	last_name = Edward_Burstall
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1870.8.26
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:QUE ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1900.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+can_general_cruikshank = {
+	dna = dna_ernest_cruikshank
+	first_name = Ernest
+	last_name = Alexander_Cruikshank
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1853.6.29
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+can_general_currie = {
+	dna = dna_arthur_currie
+	first_name = Arthur
+	last_name = Currie
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1875.12.5
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_dodds = {
+	dna = dna_william_dodds
+	first_name = William_Okell
+	last_name = Holden_Dodds
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1867.7.3
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:NVS ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+can_general_elmsley = {
+	dna = dna_james_elmsley
+	first_name = James_Harold
+	last_name = Elmsley
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1878.10.13
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1908.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_griesbach = {
+	dna = dna_william_griesbach
+	first_name = William
+	last_name = Antrobus_Griesbach
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1878.1.3
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:HBC ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1908.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_hogarth = {
+	dna = dna_donald_hogarth
+	first_name = Donald
+	last_name = Hogarth
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1879.6.15
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1909.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_macdonell = {
+	dna = dna_archibald_macdonell
+	first_name = Archibald
+	last_name = Hayes_Macdonell
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1868.2.6
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1928.1.1	
+		chance = 75
+	}
+}
+can_general_otter = {
+	dna = dna_william_otter
+	first_name = William
+	last_name = Dillon_Otter
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1843.12.3
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+can_general_thacker = {
+	dna = dna_herbert_thacker
+	first_name = Herbert
+	last_name = Cyril_Thacker
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1870.9.16
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1900.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_turner = {
+	dna = dna_richard_turner
+	first_name = Richard
+	last_name = Turner
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1871.7.25
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:QUE ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1901.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+can_general_watson = {
+	dna = dna_david_watson
+	first_name = David
+	last_name = Watson
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1869.2.7
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:QUE ?= this
+            c:CAN ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+can_admiral_kingsmill = {
+	dna = dna_charles_kingsmill
+	first_name = Charles
+	last_name = Kingsmill
+	historical = yes
+	culture = cu:anglo_canadian
+	female = no
+	birth_date = 1855.7.7
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:ONT ?= this
+            c:CAN ?= this
+    }
+}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}

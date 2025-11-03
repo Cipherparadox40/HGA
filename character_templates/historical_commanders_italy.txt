@@ -1,0 +1,1252 @@
+﻿# Sardinia-Piedmont - SAR
+sar_general_pollio = {
+	dna = dna_alberto_pollio
+	first_name = Alberto
+	last_name = Pollio
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1852.4.21
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+sar_general_salletta = {
+	dna = dna_tancredi_salletta
+	first_name = Tancredi
+	last_name = Salletta
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1840.6.27
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1890.1.1	
+		chance = 75
+	}
+}
+sar_general_badoglio = {
+	dna = dna_pietro_badoglio
+	first_name = Pietro
+	last_name = Badoglio
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1871.9.28
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1901.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+sar_general_giraldi = {
+	dna = dna_guglielmo_giraldi
+	first_name = Guglielmo
+	last_name = Pecori_Giraldi
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1856.5.18
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1905.1.1	
+		chance = 75
+	}
+}
+sar_general_frugoni = {
+	dna = dna_pietro_frugoni
+	first_name = Pietro
+	last_name = Frugoni
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1851.1.21
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+sar_general_filiberto = {
+	dna = dna_emanuele_filiberto
+	first_name = Emanuele
+	last_name = Filiberto
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1869.1.13
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1900.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+sar_general_capello = {
+	dna = dna_luigi_capello
+	first_name = Luigi
+	last_name = Capello
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1859.4.14
+    commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1889.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+sar_admiral_campioni = {
+    dna = dna_inigo_campioni
+	first_name = Inigo
+	last_name = Campioni
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1878.11.14
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1908.1.1
+		latest_usage_date = 1925.1.1	
+		chance = 75
+	}
+}
+sar_admiral_rizzo = {
+    dna = dna_luigi_rizzo
+	first_name = Luigi
+	last_name = Rizzo
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1887.10.8
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+sar_admiral_revel = {
+    dna = dna_paolo_revel
+	first_name = Paolo
+	last_name = Thaon_di_Revel
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1859.6.10
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+sar_admiral_corsi = {
+    dna = dna_camillo_corsi
+	first_name = Camillo
+	last_name = Corsi
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1860.5.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+sar_admiral_bono = {
+    dna = dna_alberto_bono
+	first_name = Alberto
+	last_name = del_Bono
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1856.9.21
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+sar_general_ferrero_la_marmora_alfonso = {
+
+	first_name = alfonso
+	last_name = ferrero_la_marmora
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1804.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:SAR 
+					this = c:SAR 
+				}
+				AND = { 
+					NOT = { exists = c:SAR } 
+					exists = c:ITA 
+					this = c:ITA 
+					c:ITA = { owns_entire_state_region = STATE_PIEDMONT } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1832.1.1
+		latest_usage_date = 1884.1.1	
+		chance = 75
+	}
+}
+
+sar_general_della_marmora_alberto = {
+
+	first_name = alberto
+	last_name = della_marmora
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1789.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = general
+		earliest_usage_date = 1817.1.1
+		latest_usage_date = 1869.1.1	
+		chance = 75
+	}
+}
+
+sar_general_ferrero_la_marmora_alessandro = {
+
+	first_name = alessandro
+	last_name = ferrero_la_marmora
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1799.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = general
+		earliest_usage_date = 1827.1.1
+		latest_usage_date = 1879.1.1	
+		chance = 75
+	}
+}
+
+sar_general_cialdini = {
+
+	first_name = enrico
+	last_name = cialdini
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1811.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = general
+		earliest_usage_date = 1839.1.1
+		latest_usage_date = 1891.1.1	
+		chance = 75
+	}
+}
+
+sar_general_la_forest_de_divonne = {
+
+	first_name = alberto
+	last_name = la_forest_de_divonne
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1818.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = general
+		earliest_usage_date = 1846.1.1
+		latest_usage_date = 1898.1.1	
+		chance = 75
+	}
+}
+
+sar_general_cadorna = {
+
+	first_name = raffaele
+	last_name = cadorna
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1815.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1843.1.1 latest_usage_date = 1895.1.1 chance = 75 }
+}
+
+sar_general_arimondi = {
+
+	first_name = giuseppe
+	last_name = arimondi
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1846.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1874.1.1 latest_usage_date = 1926.1.1 chance = 75 }
+}
+
+sar_general_baratieri = {
+
+	first_name = oreste
+	last_name = baratieri
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1841.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1869.1.1 latest_usage_date = 1921.1.1 chance = 75 }
+}
+
+sar_general_dabormida = {
+
+	first_name = vittorio
+	last_name = dabormida
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1842.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1870.1.1 latest_usage_date = 1922.1.1 chance = 75 }
+}
+
+sar_general_galliano = {
+
+	first_name = giuseppe
+	last_name = galliano
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1846.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1874.1.1 latest_usage_date = 1926.1.1 chance = 75 }
+}
+
+sar_general_toselli = {
+
+	first_name = pietro
+	last_name = toselli
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1856.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1884.1.1 latest_usage_date = 1936.1.1 chance = 75 }
+}
+
+sar_general_pesenti = {
+
+	first_name = gustavo
+	last_name = pesenti
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1878.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1906.1.1 latest_usage_date = 1958.1.1 chance = 75 }
+}
+
+sic_general_di_giorgio = {
+
+	first_name = antonino
+	last_name = di_giorgio
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1867.1.1
+	commander_usage = {
+		country_trigger = { exists = c:SIC }
+		role = general
+		earliest_usage_date = 1895.1.1
+		latest_usage_date = 1947.1.1
+		chance = 75
+	}
+}
+
+sar_general_caneva = {
+
+	first_name = carlo
+	last_name = caneva
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1845.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1873.1.1 latest_usage_date = 1925.1.1 chance = 75 }
+}
+
+sic_general_ameglio = {
+
+	first_name = giovanni
+	last_name = ameglio
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1854.1.1
+	commander_usage = { country_trigger = { exists = c:SIC } role = general earliest_usage_date = 1882.1.1 latest_usage_date = 1934.1.1 chance = 75 }
+}
+
+sar_general_zupelli = {
+
+	first_name = vittorio_italico
+	last_name = zupelli
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1859.1.1
+	commander_usage = { country_trigger = { OR = { AND = { exists = c:SAR this = c:SAR } AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } } } } role = general earliest_usage_date = 1887.1.1 latest_usage_date = 1939.1.1 chance = 75 }
+
+	sar_admiral_pellion_di_persano = {
+
+	first_name = carlo
+	last_name = pellion_di_persano
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1806.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1834.1.1
+		latest_usage_date = 1886.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_aubry = {
+
+	first_name = augusto
+	last_name = aubry
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1849.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1929.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_faravelli = {
+
+	first_name = luigi
+	last_name = faravelli
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1852.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1880.1.1
+		latest_usage_date = 1932.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_acton_alfredo = {
+
+	first_name = alfredo
+	last_name = acton
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1867.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1895.1.1
+		latest_usage_date = 1947.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_amedeo = {
+
+	first_name = prince_luigi
+	last_name = amedeo
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1873.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1901.1.1
+		latest_usage_date = 1953.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_angioletti = {
+
+	first_name = diego
+	last_name = angioletti
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1822.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1850.1.1
+		latest_usage_date = 1902.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_acton_ferdinando = {
+
+	first_name = ferdinando
+	last_name = acton
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1832.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1860.1.1
+		latest_usage_date = 1912.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_albini = {
+
+	first_name = michele_giuseppe
+	last_name = albini
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1780.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1808.1.1
+		latest_usage_date = 1860.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_amero_d_aste = {
+
+	first_name = marcello
+	last_name = amero_d_aste
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1853.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1933.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_bernotti = {
+
+	first_name = romeo
+	last_name = bernotti
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1877.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1957.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_cagni = {
+
+	first_name = umberto
+	last_name = cagni
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1863.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1943.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_campioni = {
+
+	first_name = inigo
+	last_name = campioni
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1878.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1906.1.1
+		latest_usage_date = 1958.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_canevaro = {
+
+	first_name = felice_napoleone
+	last_name = canevaro
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1838.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1866.1.1
+		latest_usage_date = 1918.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_del_santo = {
+
+	first_name = andrea
+	last_name = del_santo
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1830.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1858.1.1
+		latest_usage_date = 1910.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_di_giamberardino = {
+
+	first_name = oscar
+	last_name = di_giamberardino
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1881.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1909.1.1
+		latest_usage_date = 1961.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_di_negro = {
+
+	first_name = orazio
+	last_name = di_negro
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1809.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1837.1.1
+		latest_usage_date = 1889.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_de_feo = {
+
+	first_name = vincenzo
+	last_name = de_feo
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1876.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1904.1.1
+		latest_usage_date = 1956.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_leonardi_cattolica = {
+
+	first_name = pasquale
+	last_name = leonardi_cattolica
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1854.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1934.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_maraghini = {
+
+	first_name = giotto
+	last_name = maraghini
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1882.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1962.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_millo = {
+
+	first_name = enrico
+	last_name = millo
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1865.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1945.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_mirabello = {
+
+	first_name = carlo
+	last_name = mirabello
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1847.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1927.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_paladini = {
+
+	first_name = osvaldo
+	last_name = paladini
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1866.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1946.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_palumbo = {
+
+	first_name = giuseppe
+	last_name = palumbo
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1840.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1920.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_provana_del_sabbione = {
+
+	first_name = pompeo
+	last_name = provana_del_sabbione
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1816.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1844.1.1
+		latest_usage_date = 1896.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_rizzo = {
+
+	first_name = luigi
+	last_name = rizzo
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1887.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1967.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_saint_bon = {
+
+	first_name = simone_antonio
+	last_name = saint_bon
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1828.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1856.1.1
+		latest_usage_date = 1908.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_di_savoia = {
+
+	first_name = prince_tommaso
+	last_name = di_savoia
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1854.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1934.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_triangi_di_maderno_e_laces = {
+
+	first_name = arturo
+	last_name = triangi_di_maderno_e_laces
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1864.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1892.1.1
+		latest_usage_date = 1944.1.1
+		chance = 75
+	}
+}
+
+sic_admiral_vacca = {
+
+	first_name = giovanni
+	last_name = vacca
+	historical = yes
+	culture = cu:south_italian
+	female = no
+	birth_date = 1810.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SIC this = c:SIC }
+				AND = { NOT = { exists = c:SIC } exists = c:ITA this = c:ITA }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1838.1.1
+		latest_usage_date = 1890.1.1
+		chance = 75
+	}
+}
+
+sar_admiral_viale = {
+
+	first_name = leone
+	last_name = viale
+	historical = yes
+	culture = cu:north_italian
+	female = no
+	birth_date = 1851.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { exists = c:SAR this = c:SAR }
+				AND = { NOT = { exists = c:SAR } exists = c:ITA this = c:ITA c:ITA = { owns_entire_state_region = STATE_PIEDMONT } }
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1931.1.1
+		chance = 75
+	}
+}

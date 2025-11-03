@@ -1,0 +1,1857 @@
+﻿# Prussia - PRU
+pru_general_schlieffen = {
+	dna = dna_alfred_schlieffen
+	first_name = Alfred
+	last_name = von_Schlieffen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1833.2.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1863.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+pru_general_falkenhayn = {
+	dna = dna_erich_falkenhayn
+	first_name = Erich
+	last_name = von_Falkenhayn
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1861.9.11
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_general_kluck = {
+	dna = dna_alexander_kluck
+	first_name = Alexander
+	last_name = von_Kluck
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1846.5.20
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+pru_general_lettow = {
+	dna = dna_paul_lettow_vorbeck
+	first_name = Paul
+	last_name = von_Lettow_Vorbeck
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1870.3.20
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1900.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_general_bulow = {
+	dna = dna_karl_bulow
+	first_name = Karl
+	last_name = von_Bulow
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1846.3.24
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+pru_general_mackensen = {
+	dna = dna_august_mackensen
+	first_name = August
+	last_name = von_Mackensen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1849.12.6
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+pru_general_bayern = {
+	dna = dna_rupprecht_bayern
+	first_name = Rupprecht
+	last_name = von_Bayern
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1869.5.18
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_admiral_koester = {
+	dna = dna_hans_koester
+	first_name = Hans
+	last_name = von_Koester
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1844.4.29
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1874.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+pru_admiral_preussen = {
+	dna = dna_heinrich_preussen
+	first_name = Heinrich
+	last_name = von_Preussen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1862.8.14
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1892.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_admiral_holtzendorff = {
+	dna = dna_henning_holtzendorff
+	first_name = Henning
+	last_name = von_Holtzendorff
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1853.1.9
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+pru_admiral_scheer = {
+	dna = dna_reinhard_scheer
+	first_name = Reinhard
+	last_name = Scheer
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1863.9.30
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_admiral_hipper = {
+	dna = dna_franz_hipper
+	first_name = Franz
+	last_name = von_Hipper
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1863.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_general_meckel = {
+	dna = dna_jakob_meckel
+	first_name = Jakob
+	last_name = Meckel
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1842.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1872.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+pru_admiral_ingenohl = {
+	dna = dna_friedrich_ingenohl
+	first_name = Friedrich
+	last_name = von_Ingenohl
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1857.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1933.1.1	
+		chance = 75
+	}
+}
+pru_admiral_pohl = {
+	dna = dna_hugo_pohl
+	first_name = Hugo
+	last_name = von_Pohl
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1855.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1916.1.1	
+		chance = 75
+	}
+}
+pru_admiral_reuter = {
+	dna = dna_ludwig_reuter
+	first_name = Ludwig
+	last_name = von_Reuter
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1869.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1943.1.1	
+		chance = 75
+	}
+}
+pru_admiral_bibran = {
+	dna = dna_gustav_bibran
+	first_name = Gustav
+	last_name = von_Senden_Bibran
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1847.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1909.1.1	
+		chance = 75
+	}
+}
+pru_admiral_diederichs = {
+	dna = dna_otto_diederichs
+	first_name = Otto
+	last_name = von_Diederichs
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1843.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1918.1.1	
+		chance = 75
+	}
+}
+pru_admiral_bendemann = {
+	dna = dna_felix_bendemann
+	first_name = Felix
+	last_name = von_Bendemann
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1848.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1878.1.1
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+pru_admiral_thomsen = {
+	dna = dna_august_thomsen
+	first_name = August
+	last_name = von_Thomsen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1846.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_admiral_hollmann = {
+	dna = dna_friedrich_hollmann
+	first_name = Friedrich
+	last_name = von_Hollmann
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1842.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1872.1.1
+		latest_usage_date = 1913.1.1	
+		chance = 75
+	}
+}
+pru_admiral_knorr = {
+	dna = dna_eduard_knorr
+	first_name = Eduard
+	last_name = von_Knorr
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1840.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_admiral_goltz = {
+	dna = dna_max_goltz
+	first_name = Max
+	last_name = von_der_Goltz
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1838.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1906.1.1	
+		chance = 75
+	}
+}
+pru_admiral_muller = {
+	dna = dna_georg_muller
+	first_name = Georg
+	last_name = Alexander_von_Muller
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1854.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+pru_admiral_truppel = {
+	dna = dna_oskar_truppel
+	first_name = Oskar
+	last_name = von_Truppel
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1854.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1931.1.1	
+		chance = 75
+	}
+}
+pru_admiral_schroder = {
+	dna = dna_ludwig_schroder
+	first_name = Ludwig
+	last_name = von_Schroder
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1854.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1933.1.1	
+		chance = 75
+	}
+}
+pru_admiral_heeringen = {
+	dna = dna_august_heering
+	first_name = August
+	last_name = von_Heeringen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1855.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+pru_admiral_capelle = {
+	dna = dna_eduard_capelle
+	first_name = Eduard
+	last_name = von_Capelle
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1855.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1931.1.1	
+		chance = 75
+	}
+}
+pru_admiral_bachmann = {
+	dna = dna_gustav_bachmann
+	first_name = Gustav
+	last_name = Bachmann
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1860.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1943.1.1	
+		chance = 75
+	}
+}
+pru_admiral_usedom = {
+	dna = dna_guido_usedom
+	first_name = Guido
+	last_name = von_Usedom
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1854.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1925.1.1	
+		chance = 75
+	}
+}
+pru_admiral_schmidt = {
+	dna = dna_ehrhard_schmidt
+	first_name = Ehrhard
+	last_name = Schmidt
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1863.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1946.1.1	
+		chance = 75
+	}
+}
+pru_admiral_souchon = {
+	dna = dna_wilhelm_souchon
+	first_name = Wilhelm
+	last_name = Souchon
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1864.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1946.1.1	
+		chance = 75
+	}
+}
+pru_admiral_behncke = {
+	dna = dna_paul_behncke
+	first_name = Paul
+	last_name = Behncke
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1869.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1937.1.1	
+		chance = 75
+	}
+}
+pru_admiral_zenker = {
+	dna = dna_hans_zenker
+	first_name = Hans
+	last_name = Zenker
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1870.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1932.1.1	
+		chance = 75
+	}
+}
+pru_admiral_bastian = {
+	dna = dna_max_bastian
+	first_name = Max
+	last_name = Bastian
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1883.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1958.1.1	
+		chance = 75
+	}
+}
+pru_admiral_canaris = {
+	dna = dna_wilhelm_canaris
+	first_name = Wilhelm 
+	last_name = Canaris
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1887.9.13
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1945.1.1	
+		chance = 75
+	}
+}
+pru_general_bahrfeldt = {
+	dna = dna_max_bahrfeldt
+	first_name = Max
+	last_name = von_Bahrfeldt
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1856.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+pru_general_balck = {
+	dna = dna_william_balck
+	first_name = William
+	last_name = Balck
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1858.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1924.1.1	
+		chance = 75
+	}
+}
+pru_general_waldersee = {
+	dna = dna_alfred_waldersee
+	first_name = Alfred
+	last_name = von_Waldersee
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1832.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1862.1.1
+		latest_usage_date = 1904.1.1	
+		chance = 75
+	}
+}
+pru_general_beaulieu = {
+	dna = dna_martin_beaulieu
+	first_name = Martin_Chales
+	last_name = de_Beaulieu
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1857.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1945.1.1	
+		chance = 75
+	}
+}
+pru_general_below = {
+	dna = dna_ernst_below
+	first_name = Ernst
+	last_name = von_Below
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1863.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1955.1.1	
+		chance = 75
+	}
+}
+pru_general_bernhardi = {
+	dna = dna_friedrich_bernhardi
+	first_name = Friedrich
+	last_name = von_Bernhardi
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1849.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+pru_general_boehn = {
+	dna = dna_max_boehn
+	first_name = Max
+	last_name = von_Boehn
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1850.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1921.1.1	
+		chance = 75
+	}
+}
+pru_general_bothmer = {
+	dna = dna_felix_bothmer
+	first_name = Felix_Graf
+	last_name = von_Bothmer
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1852.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1937.1.1	
+		chance = 75
+	}
+}
+pru_general_conta = {
+	dna = dna_richard_conta
+	first_name = Richard
+	last_name = von_Conta
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1856.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1941.1.1	
+		chance = 75
+	}
+}
+pru_general_eberhardt = {
+	dna = dna_magnus_eberhardt
+	first_name = Magnus
+	last_name = von_Eberhardt
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1855.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1939.1.1	
+		chance = 75
+	}
+}
+pru_general_eitel = {
+	dna = dna_eitel_preussen
+	first_name = Eitel_Friedrich
+	last_name = von_Preussen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1883.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1942.1.1	
+		chance = 75
+	}
+}
+pru_general_freytag = {
+	dna = dna_hugo_freytag
+	first_name = Hugo
+	last_name = von_Freytag_Loringhoven
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1855.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1924.1.1	
+		chance = 75
+	}
+}
+pru_general_gallwitz = {
+	dna = dna_max_gallwitz
+	first_name = Max
+	last_name = von_Gallwitz
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1852.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1937.1.1	
+		chance = 75
+	}
+}
+pru_general_goltz = {
+	dna = dna_colmar_goltz
+	first_name = Colmar
+	last_name = von_der_Goltz
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1843.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1916.1.1	
+		chance = 75
+	}
+}
+pru_general_gronau = {
+	dna = dna_hans_gronau
+	first_name = Hans
+	last_name = von_Gronau
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1850.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1880.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+pru_general_heeringen = {
+	dna = dna_josias_heeringen
+	first_name = Josias
+	last_name = von_Heeringen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1850.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1880.1.1
+		latest_usage_date = 1926.1.1	
+		chance = 75
+	}
+}
+pru_general_kessel = {
+	dna = dna_gustav_kessel
+	first_name = Gustav
+	last_name = von_Kessel
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1846.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1919.1.1	
+		chance = 75
+	}
+}
+pru_general_bayern = {
+	dna = dna_leopold_bayern
+	first_name = Leopold
+	last_name = von_Bayern
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1846.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+pru_general_linsingen = {
+	dna = dna_alexander_linsingen
+	first_name = Alexander
+	last_name = von_Linsingen
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1850.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1880.1.1
+		latest_usage_date = 1935.1.1	
+		chance = 75
+	}
+}
+pru_general_marchtaler = {
+	dna = dna_otto_marchtaler
+	first_name = Otto
+	last_name = von_Marchtaler
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1854.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_general_marwitz = {
+	dna = dna_georg_marwitz
+	first_name = Georg
+	last_name = von_der_Marwitz
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1856.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1929.1.1	
+		chance = 75
+	}
+}
+pru_general_prittwitz = {
+	dna = dna_maximilian_prittwitz
+	first_name = Maximilian
+	last_name = von_Prittwitz
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1848.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1878.1.1
+		latest_usage_date = 1917.1.1	
+		chance = 75
+	}
+}
+pru_general_sauberzweig = {
+	dna = dna_traugott_sauberzweig
+	first_name = Traugott
+	last_name = von_Sauberzweig
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1863.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+pru_general_boyadel = {
+	dna = dna_reinhard_boyadel
+	first_name = Reinhard
+	last_name = von_Scheffer_Boyadel
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1851.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1925.1.1	
+		chance = 75
+	}
+}
+pru_general_schellendorf = {
+	dna = dna_friedrich_schellendorf
+	first_name = Friedrich_Bonsart
+	last_name = von_Schellendorf
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1864.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1950.1.1	
+		chance = 75
+	}
+}
+pru_general_weber = {
+	dna = dna_erich_weber
+	first_name = Erich
+	last_name = Weber
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1860.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1933.1.1	
+		chance = 75
+	}
+}
+pru_general_winckler = {
+	dna = dna_arnold_winckler
+	first_name = Arnold
+	last_name = von_Winckler
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1856.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1945.1.1	
+		chance = 75
+	}
+}
+pru_general_zwehl = {
+	dna = dna_hans_zwehl
+	first_name = Hans
+	last_name = von_Zwehl
+	historical = yes
+	culture = cu:north_german
+	female = no
+	birth_date = 1851.3.28
+		commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = { 
+					exists = c:PRU 
+					this = c:PRU 
+				}
+				AND = { 
+					NOT = { exists = c:PRU } 
+					exists = c:GER 
+					this = c:GER 
+					c:GER = { owns_entire_state_region = STATE_BRANDENBURG } 
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1926.1.1	
+		chance = 75
+	}
+}

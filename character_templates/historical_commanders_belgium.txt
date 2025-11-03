@@ -1,0 +1,589 @@
+﻿# Belgium - BEL
+bel_general_armand = {
+    dna = dna_armand_ceuninck
+	first_name = Armand
+	last_name = de_Ceuninck
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1858.5.27
+	commander_usage = {
+		country_trigger = {
+			exists = c:BEL
+			this = c:BEL
+		}
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+bel_general_witte = {
+    dna = dna_leon_witte
+	first_name = Leon
+	last_name = de_Witte
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1857.1.12
+	commander_usage = {
+		country_trigger = {
+			exists = c:BEL
+			this = c:BEL
+		}
+		role = general
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+bel_general_dossin = {
+    dna = dna_emile_dossin
+	first_name = Emile
+	last_name = Dossin_de_Saint_Georges
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1854.6.18
+	commander_usage = {
+		country_trigger = {
+			exists = c:BEL
+			this = c:BEL
+		}
+		role = general
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+bel_general_gillain = {
+    dna = dna_cyriaque_gillain
+	first_name = Cyriaque
+	last_name = Gillain
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1857.8.11
+	commander_usage = {
+		country_trigger = {
+			exists = c:BEL
+			this = c:BEL
+		}
+		role = general
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+bel_general_rode = {
+    dna = dna_albert_rode
+	first_name = Albert
+	last_name = van_Rode
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1852.6.19
+	commander_usage = {
+		country_trigger = {
+			exists = c:BEL
+			this = c:BEL
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+bel_general_goethals_charles = {
+
+	first_name = charles
+	last_name = goethals
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1782.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1810.1.1
+		latest_usage_date = 1862.1.1
+		chance = 75
+	}
+}
+
+bel_general_lahure = {
+
+	first_name = felix_corneille
+	last_name = lahure
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1800.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1828.1.1
+		latest_usage_date = 1880.1.1
+		chance = 75
+	}
+}
+
+bel_general_ablay = {
+
+	first_name = omer
+	last_name = ablay
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1801.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1829.1.1
+		latest_usage_date = 1881.1.1
+		chance = 75
+	}
+}
+
+bel_general_goethals_auguste = {
+
+	first_name = auguste
+	last_name = goethals
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1812.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1892.1.1
+		chance = 75
+	}
+}
+
+bel_general_goffinet = {
+
+	first_name = adrien
+	last_name = goffinet
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1812.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1892.1.1
+		chance = 75
+	}
+}
+
+bel_general_brialmont = {
+
+	first_name = henri_alexis
+	last_name = brialmont
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1821.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1849.1.1
+		latest_usage_date = 1901.1.1
+		chance = 75
+	}
+}
+
+bel_general_gratry = {
+
+	first_name = guillaume
+	last_name = gratry
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1822.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1850.1.1
+		latest_usage_date = 1902.1.1
+		chance = 75
+	}
+}
+
+bel_general_van_der_smissen = {
+
+	first_name = alfred
+	last_name = van_der_smissen
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1823.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1851.1.1
+		latest_usage_date = 1903.1.1
+		chance = 75
+	}
+}
+
+bel_general_pontus = {
+
+	first_name = charles
+	last_name = pontus
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1829.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1857.1.1
+		latest_usage_date = 1909.1.1
+		chance = 75
+	}
+}
+
+bel_general_beaudrihaye = {
+
+	first_name = prosper
+	last_name = beaudrihaye
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1836.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1864.1.1
+		latest_usage_date = 1916.1.1
+		chance = 75
+	}
+}
+
+bel_general_rouen = {
+
+	first_name = charles
+	last_name = rouen
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1838.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1866.1.1
+		latest_usage_date = 1918.1.1
+		chance = 75
+	}
+}
+
+bel_general_hellebaut = {
+
+	first_name = joseph
+	last_name = hellebaut
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1842.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1922.1.1
+		chance = 75
+	}
+}
+
+bel_general_storms = {
+
+	first_name = emile
+	last_name = storms
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1846.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1874.1.1
+		latest_usage_date = 1926.1.1
+		chance = 75
+	}
+}
+
+bel_general_bernheim = {
+
+	first_name = louis
+	last_name = bernheim
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1861.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1889.1.1
+		latest_usage_date = 1941.1.1
+		chance = 75
+	}
+}
+
+bel_general_baltia = {
+
+	first_name = herman
+	last_name = baltia
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1863.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1943.1.1
+		chance = 75
+	}
+}
+
+bel_general_braconnier = {
+
+	first_name = charles_marie
+	last_name = de_braconnier
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1849.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1929.1.1
+		chance = 75
+	}
+}
+
+bel_general_chazal = {
+
+	first_name = pierre_emmanuel
+	last_name = felix_chazal
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1808.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1836.1.1
+		latest_usage_date = 1888.1.1
+		chance = 75
+	}
+}
+
+bel_general_denis = {
+
+	first_name = henri
+	last_name = denis
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1877.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1957.1.1
+		chance = 75
+	}
+}
+
+bel_general_ermens = {
+
+	first_name = paul
+	last_name = ermens
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1884.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1912.1.1
+		latest_usage_date = 1964.1.1
+		chance = 75
+	}
+}
+
+bel_general_galet = {
+
+	first_name = emile
+	last_name = galet
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1870.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+bel_general_guillaume = {
+
+	first_name = henri
+	last_name = guillaume
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1812.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1892.1.1
+		chance = 75
+	}
+}
+
+bel_general_dixmude = {
+
+	first_name = jules_jacques
+	last_name = de_dixmude
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1858.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1938.1.1
+		chance = 75
+	}
+}
+
+bel_general_molitor = {
+
+	first_name = philippe
+	last_name = molitor
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1869.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1949.1.1
+		chance = 75
+	}
+}
+
+bel_general_nypels = {
+
+	first_name = lambert
+	last_name = nypels
+	historical = yes
+	culture = cu:dutch
+	female = no
+	birth_date = 1783.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1811.1.1
+		latest_usage_date = 1863.1.1
+		chance = 75
+	}
+}
+
+bel_general_prisse = {
+
+	first_name = albert
+	last_name = prisse
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1788.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1816.1.1
+		latest_usage_date = 1868.1.1
+		chance = 75
+	}
+}
+
+bel_general_van_strydonck = {
+
+	first_name = victor
+	last_name = van_strydonck_de_burkel
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1876.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1904.1.1
+		latest_usage_date = 1956.1.1
+		chance = 75
+	}
+}

@@ -1,0 +1,229 @@
+﻿# Ottoman Empire - TUR
+tur_general_kurt = {
+	dna = dna_kurt_pasha
+	first_name = Kurt
+	last_name = Ismail_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1818.2.4 
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1848.1.1
+		latest_usage_date = 1885.1.1	
+		chance = 75
+	}
+}
+tur_general_ahmed = {
+	dna = dna_ahmed_pasha
+	first_name = Ahmed
+	last_name = Muhtar_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1839.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1878.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+tur_general_suleyman = {
+	dna = dna_suleyman_pasha
+	first_name = Suleyman
+	last_name = Husnu_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1838.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1890.1.1	
+		chance = 75
+	}
+}
+tur_general_deli = {
+	dna = dna_deli_pasha
+	first_name = Deli
+	last_name = Fuad_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1835.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+tur_general_abdulkerim = {
+	dna = dna_abdulkerim_pasha
+	first_name = Abdulkerim
+	last_name = Nadir_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1807.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1837.1.1
+		latest_usage_date = 1880.1.1	
+		chance = 75
+	}
+}
+tur_general_djemal = {
+	dna = dna_djemal_pasha
+	first_name = Djemal
+	last_name = Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1872.5.6
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1902.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+tur_general_omar = {
+	dna = dna_omar_pasha
+	first_name = Omar
+	last_name = Pasha
+	historical = yes
+	culture = cu:serbian
+	female = no
+	birth_date = 1806.9.24
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1836.1.1
+		latest_usage_date = 1870.1.1	
+		chance = 75
+	}
+}
+tur_general_fakhri = {
+	dna = dna_fakhri_pasha
+	first_name = Fakhri
+	last_name = Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1868.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+tur_general_enver = {
+	dna = dna_enver_pasha
+	first_name = Enver
+	last_name = Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1881.11.22
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1906.1.1
+		latest_usage_date = 1921.1.1	
+		chance = 75
+	}
+}
+tur_general_cobanli = {
+	dna = dna_cevat_cobanli
+	first_name = Cevat
+	last_name = Cobanli
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1870.9.14
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = general
+		earliest_usage_date = 1900.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+tur_admiral_hasan = {
+	dna = dna_hasan_pasha
+	first_name = Hasan
+	last_name = Husnu_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1832.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = admiral
+		earliest_usage_date = 1862.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+tur_admiral_huseyin = {
+	dna = dna_huseyin_pasha
+	first_name = Huseyin
+	last_name = Husnu_Pasha
+	historical = yes
+	culture = cu:turkish
+	female = no
+	birth_date = 1852.11.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:TUR
+			this = c:TUR
+		}
+		role = admiral
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1905.1.1	
+		chance = 75
+	}
+}

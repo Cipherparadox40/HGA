@@ -1,0 +1,127 @@
+﻿# Romania - ROM
+rom_general_averescu = {
+    dna = dna_alexandru_averescu
+	first_name = Alexandru
+	last_name = Averescu
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1859.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1889.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+rom_general_prezan = {
+    dna = dna_constantin_prezan
+	first_name = Constantin
+	last_name = Prezan
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1861.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+rom_general_bengescu = {
+    dna = dna_george_bengescu
+	first_name = George
+	last_name = Bengescu_Dabija
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1844.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1874.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+rom_general_berindei = {
+    dna = dna_anton_berindei
+	first_name = Anton
+	last_name = Berindei
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1838.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1898.1.1	
+		chance = 75
+	}
+}
+rom_general_brosteanu = {
+    dna = dna_ernest_brosteanu
+	first_name = Ernest
+	last_name = Brosteanu
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1869.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+rom_general_budisteanu = {
+    dna = dna_constantin_budisteanu
+	first_name = Constantin
+	last_name = Budisteanu
+	historical = yes
+	culture = cu:romanian
+	female = no
+	birth_date = 1838.5.27
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:WAL ?= this
+            c:ROM ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}

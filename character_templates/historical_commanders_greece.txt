@@ -1,0 +1,137 @@
+﻿# Greece - GRE
+gre_general_chasapidis = {
+    dna = dna_aristeidis_chasapidis
+	first_name = Aristeidis
+	last_name = Chasapidis
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1875.5.27
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+gre_general_christodoulou = {
+    dna = dna_nikolaos_christodoulou
+	first_name = Nikolaos
+	last_name = Christodoulou
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1863.7.18
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gre_general_danglis = {
+    dna = dna_panagiotis_danglis
+	first_name = Panagiotis
+	last_name = Danglis
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1853.11.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gre_general_delagrammatikas = {
+    dna = dna_nikolaos_delagrammatikas
+	first_name = Nikolaos
+	last_name = Delagrammatikas
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1853.11.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gre_general_sapountzakis = {
+    dna = dna_konstantinos_sapountzakis
+	first_name = Konstantinos
+	last_name = Sapountzakis
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1846.11.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gre_general_manos = {
+    dna = dna_thrasyvoulos_manos
+	first_name = Thrasyvoulos
+	last_name = Manos
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1835.11.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = general
+		earliest_usage_date = 1865.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gre_admiral_kountouriotis = {
+    dna = dna_pavlos_kountouriotis
+	first_name = Pavlos
+	last_name = Kountouriotis
+	historical = yes
+	culture = cu:greek
+	female = no
+	birth_date = 1855.4.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:GRE
+			this = c:GRE
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+
+
+

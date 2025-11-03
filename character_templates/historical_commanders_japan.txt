@@ -1,0 +1,306 @@
+﻿
+# Japan - JAP
+jap_general_nobuyuki = {
+    dna = dna_nobuyuki_abe
+	first_name = Nobuyuki
+	last_name = Abe
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1875.11.25
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1925.1.1	
+		chance = 75
+	}
+}
+jap_general_sadayoshi = {
+    dna = dna_sadayoshi_ando
+	first_name = Sadayoshi
+	last_name = Ando
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1853.10.20
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+jap_general_yamagata = {
+    dna = dna_yamagata_aritomo
+	first_name = Yamagata
+	last_name = Aritomo
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1838.7.14
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1890.1.1	
+		chance = 75
+	}
+}
+jap_general_katsura = {
+    dna = dna_katsura_taro
+	first_name = Katsura
+	last_name = Taro
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1848.1.4
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1878.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_general_arisaka = {
+    dna = dna_arisaka_nariakira
+	first_name = Arisaka
+	last_name = Nariakira
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1852.4.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+jap_general_oku = {
+    dna = dna_oku_yasukata
+	first_name = Oku
+	last_name = Yasukata
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1847.1.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_general_nozu = {
+    dna = dna_nozu_michitsura
+	first_name = Nozu
+	last_name = Michitsura
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1840.12.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_general_nogi = {
+    dna = dna_nogi_maresuke
+	first_name = Nogi
+	last_name = Maresuke
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1849.12.25
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_general_arisugawa = {
+    dna = dna_arisugawa_taruhito
+	first_name = Arisugawa
+	last_name = Taruhito
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1835.3.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1865.1.1
+		latest_usage_date = 1890.1.1	
+		chance = 75
+	}
+}
+jap_general_fukushima = {
+    dna = dna_fukushima_yasumasa
+	first_name = Fukushima
+	last_name = Yasumasa
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1852.5.27
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+jap_admrial_saigo = {
+    dna = dna_saigo_judo
+	first_name = Saigo
+	last_name = Judo
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1843.6.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1873.2.5
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_admrial_sukeyuki = {
+    dna = dna_ito_sukeyuki
+	first_name = Ito
+	last_name = Sukeyuki
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1843.12.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_admiral_kabayama = {
+    dna = dna_kabayama_sukenori
+	first_name = Kabayama
+	last_name = Sukenori
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1837.12.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1867.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+jap_admiral_takahito = {
+    dna = dna_arisugawa_takahito
+	first_name = Arisugawa
+	last_name = Takehito
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1862.1.13
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1892.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+jap_admiral_goro = {
+    dna = dna_ijuin_goro
+	first_name = Ijuin
+	last_name = Goro
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1852.9.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+jap_admiral_inoue = {
+    dna = dna_inoue_yoshika
+	first_name = Inoue
+	last_name = Yoshika
+	historical = yes
+	culture = cu:japanese
+	female = no
+	birth_date = 1852.9.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:JAP
+			this = c:JAP
+		}
+		role = admiral
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}

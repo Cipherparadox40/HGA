@@ -1,0 +1,1160 @@
+﻿# USA - United States of America
+usa_general_alexander = {
+	dna = dna_robert_alexander
+	first_name = Robert
+	last_name = Alexander
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1863.10.17
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_bliss = {
+	dna = dna_tasker_bliss
+	first_name = Tasker
+	last_name = Howard_Bliss
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1853.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_march = {
+	dna = dna_peyton_march
+	first_name = Peyton
+	last_name = Conway_March
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1864.12.27
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_liggett = {
+	dna = dna_hunter_liggett
+	first_name = Hunter
+	last_name = Liggett
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1857.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+usa_general_bullard = {
+	dna = dna_robert_bullard
+	first_name = Robert
+	last_name = Lee_Bullard
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1861.1.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_miles = {
+	dna = dna_nelson_miles
+	first_name = Nelson
+	last_name = Appleton_Miles
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1839.8.8
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1869.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+usa_general_bell = {
+	dna = dna_james_bell
+	first_name = James
+	last_name = Franklin_Bell
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1856.1.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_wotherspoon = {
+	dna = dna_william_wotherspoon
+	first_name = William
+	last_name = Wallace_Wotherspoon
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1850.11.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1880.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_scott = {
+	dna = dna_hugh_scott
+	first_name = Hugh
+	last_name = Lenox_Scott
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1853.9.22
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_macarthur = {
+	dna = dna_douglas_macarthur
+	first_name = Douglas
+	last_name = MacArthur
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1880.1.26
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_sampson = {
+	dna = dna_william_sampson
+	first_name = William
+	last_name = Thomas_Sampson
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1840.2.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+usa_admiral_sigsbee = {
+	dna = dna_charles_sigsbee
+	first_name = Charles
+	last_name = Dwight_Sigsbee
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1845.1.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+usa_admiral_porter = {
+	dna = dna_david_porter
+	first_name = David
+	last_name = Dixon_Porter
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1813.6.8
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1843.1.1
+		latest_usage_date = 1880.1.1	
+		chance = 75
+	}
+}
+usa_admiral_fletcher = {
+	dna = dna_frank_fletcher
+	first_name = Frank
+	last_name = Friday_Fletcher
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1855.11.23
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_admiral_howard = {
+	dna = dna_thomas_howard
+	first_name = Thomas
+	last_name = Benton_Howard
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1854.8.10
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_admiral_winterhalter = {
+	dna = dna_albert_winterhalter
+	first_name = Albert
+	last_name = Gustav_Winterhalter
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1856.10.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_admiral_winslow = {
+	dna = dna_cameron_winslow
+	first_name = Cameron
+	last_name = McRae_Winslow
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1854.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_corbin = {
+	dna = dna_herny_corbin
+	first_name = Henry
+	last_name = Clark_Corbin
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1842.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1872.1.1
+		latest_usage_date = 1909.1.1	
+		chance = 75
+	}
+}
+usa_general_young = {
+	dna = dna_samuel_young
+	first_name = Samuel
+	last_name = Young
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1840.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1870.1.1
+		latest_usage_date = 1924.1.1	
+		chance = 75
+	}
+}
+usa_general_wheaton = {
+	dna = dna_loyd_wheaton
+	first_name = Loyd
+	last_name = Wheaton
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1838.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1918.1.1	
+		chance = 75
+	}
+}
+usa_general_bates = {
+	dna = dna_john_bates
+	first_name = John
+	last_name = Coalter_Bates
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1842.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1872.1.1
+		latest_usage_date = 1919.1.1	
+		chance = 75
+	}
+}
+usa_general_merriam = {
+	dna = dna_herny_merriam
+	first_name = Henry
+	last_name = Clay_Merriam
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1837.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1867.1.1
+		latest_usage_date = 1912.1.1	
+		chance = 75
+	}
+}
+usa_general_morrison = {
+	dna = dna_john_morrison
+	first_name = John
+	last_name = Frank_Morrison
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1857.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1887.1.1
+		latest_usage_date = 1932.1.1	
+		chance = 75
+	}
+}
+usa_general_mccain = {
+	dna = dna_henry_mccain
+	first_name = Henry
+	last_name = McCain
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1861.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1941.1.1	
+		chance = 75
+	}
+}
+usa_general_chamberlain = {
+	dna = dna_john_chamberlain
+	first_name = John
+	last_name = Chamberlain
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1858.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1948.1.1	
+		chance = 75
+	}
+}
+usa_general_mcintyre = {
+	dna = dna_frank_mcintyre
+	first_name = Frank
+	last_name = McIntyre
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1865.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1895.1.1
+		latest_usage_date = 1944.1.1	
+		chance = 75
+	}
+}
+usa_general_ireland = {
+	dna = dna_merritte_ireland
+	first_name = Merritte
+	last_name = Ireland
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1867.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1952.1.1	
+		chance = 75
+	}
+}
+usa_general_harbord = {
+	dna = dna_james_harbord
+	first_name = James
+	last_name = Harbord
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1866.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1896.1.1
+		latest_usage_date = 1947.1.1	
+		chance = 75
+	}
+}
+usa_general_kernan = {
+	dna = dna_francis_kernan
+	first_name = Francis
+	last_name = Kernan
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1859.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1889.1.1
+		latest_usage_date = 1945.1.1	
+		chance = 75
+	}
+}
+usa_general_summerall = {
+	dna = dna_charles_summerall
+	first_name = Charles
+	last_name = Summerall
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1867.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1955.1.1	
+		chance = 75
+	}
+}
+usa_general_schofield = {
+	dna = dna_john_schofield
+	first_name = John
+	last_name = Schofield
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1831.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1861.1.1
+		latest_usage_date = 1906.1.1	
+		chance = 75
+	}
+}
+usa_general_mcclellan = {
+	dna = dna_george_mcclellan
+	first_name = George
+	last_name = McClellan
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1826.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1856.1.1
+		latest_usage_date = 1906.1.1	
+		chance = 75
+	}
+}
+usa_general_halleck = {
+	dna = dna_henry_halleck
+	first_name = Henry
+	last_name = Halleck
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1815.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1835.1.1
+		latest_usage_date = 1885.1.1	
+		chance = 75
+	}
+}
+usa_general_wood = {
+	dna = dna_leonard_wood
+	first_name = Leonard
+	last_name = Wood
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1860.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+usa_general_hines = {
+	dna = dna_john_hines
+	first_name = John
+	last_name = Leonard_Hines
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1868.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1948.1.1	
+		chance = 75
+	}
+}
+usa_general_craig = {
+	dna = dna_malin_craig
+	first_name = Malin
+	last_name = Craig
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1875.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1945.1.1	
+		chance = 75
+	}
+}
+usa_general_merritt = {
+	dna = dna_wesley_merritt
+	first_name = Wesley
+	last_name = Merritt
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1836.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1861.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_shafter = {
+	dna = dna_william_shafter
+	first_name = William
+	last_name = Shafter
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1835.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1861.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+usa_general_slocum = {
+	dna = dna_herbert_slocum
+	first_name = Herbert
+	last_name = Slocum
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1855.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1928.1.1	
+		chance = 75
+	}
+}
+usa_general_tompkins = {
+	dna = dna_frank_tompkins
+	first_name = Frank
+	last_name = Tompkins
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1868.3.21
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = general
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1950.1.1	
+		chance = 75
+	}
+}
+usa_admiral_cowles = {
+	dna = dna_walter_cowles
+	first_name = Walter
+	last_name = Cleveland_Cowles
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1853.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1917.1.1	
+		chance = 75
+	}
+}
+usa_admiral_mayo = {
+	dna = dna_henry_mayo
+	first_name = Henry
+	last_name = Thomas_Mayo
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1856.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+usa_admiral_caperton = {
+	dna = dna_william_caperton
+	first_name = William
+	last_name = Banks_Caperton
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1855.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+usa_admiral_benson = {
+	dna = dna_william_benson
+	first_name = William
+	last_name = Shepherd_Benson
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1855.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+usa_admiral_knight = {
+	dna = dna_austin_knight
+	first_name = Austin
+	last_name = Knight
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1854.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+usa_admiral_sims = {
+	dna = dna_william_sims
+	first_name = William
+	last_name = Sims
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1858.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_rodman = {
+	dna = dna_hugh_rodman
+	first_name = Hugh
+	last_name = Rodman
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1858.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_gleaves = {
+	dna = dna_albert_gleaves
+	first_name = Albert
+	last_name = Gleaves
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1858.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_strauss = {
+	dna = dna_joseph_strauss
+	first_name = Joseph
+	last_name = Strauss
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1861.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_jones = {
+	dna = dna_hilary_jones
+	first_name = Hilary
+	last_name = Jones
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1863.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1891.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_eberle = {
+	dna = dna_edward_eberle
+	first_name = Edward
+	last_name = Eberle
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1864.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_anderson = {
+	dna = dna_edwin_anderson
+	first_name = Edwin
+	last_name = Anderson
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1860.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+usa_admiral_robinson = {
+	dna = dna_samuel_robinson
+	first_name = Samuel
+	last_name = Robinson
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1888.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1913.1.1
+		latest_usage_date = 1972.1.1	
+		chance = 75
+	}
+}
+usa_admiral_washington = {
+	dna = dna_thomas_washington
+	first_name = Thomas
+	last_name = Washington
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1865.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1895.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+usa_admiral_bristol = {
+	dna = dna_mark_bristol
+	first_name = Mark
+	last_name = Bristol
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1868.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1898.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+usa_admiral_steiguer = {
+	dna = dna_louis_steiguer
+	first_name = Louis
+	last_name = de_Steiguer
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1867.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+usa_admiral_pratt = {
+	dna = dna_william_pratt
+	first_name = William
+	last_name = Pratt
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1869.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+usa_admiral_taylor = {
+	dna = dna_montgomery_taylor
+	first_name = Montgomery
+	last_name = Taylor
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1869.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1897.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+usa_admiral_leahy = {
+	dna = dna_william_leahy
+	first_name = William
+	last_name = Leahy
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1875.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1950.1.1	
+		chance = 75
+	}
+}
+usa_admiral_hepburn = {
+	dna = dna_arthur_hepburn
+	first_name = Arthur
+	last_name = Hepburn
+	historical = yes
+	culture = cu:yankee
+	female = no
+	birth_date = 1877.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1950.1.1	
+		chance = 75
+	}
+}
+usa_admiral_nimitz = {
+	dna = dna_chester_nimitz
+	first_name = Chester
+	last_name = Nimitz
+	historical = yes
+	culture = cu:dixie
+	female = no
+	birth_date = 1885.7.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:USA
+			this = c:USA
+		}
+		role = admiral
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1950.1.1	
+		chance = 75
+	}
+}

@@ -1,0 +1,402 @@
+﻿# Portugal - POR
+por_general_abreu = {
+	dna = dna_tamagini_abreu
+	first_name = Tamagini
+	last_name = de_Abreu
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1856.5.13
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+	por_general_rosado = {
+	dna = dna_tomas_rosado
+	first_name = Tomas_Antonio
+	last_name = Garcia_Rosado
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1854.3.4
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_general_costa = {
+	dna = dna_manuel_costa
+	first_name = Manuel_Gomes
+	last_name = de_Costa
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1863.1.14
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_general_cunha = {
+	dna = dna_francisco_cunha
+	first_name = Francisco
+	last_name = Maria_da_Cunha
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1832.1.14
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1862.1.1
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+por_general_gli = {
+	dna = dna_jose_gli
+	first_name = Jose_Cesar
+	last_name = Ferreira_Gil
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1858.9.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_admiral_amaral = {
+	dna = dna_francisco_amaral
+	first_name = Francisco_Ferreira
+	last_name = do_Amaral
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1843.6.11
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = admiral
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_admiral_castro = {
+	dna = dna_joao_castro
+	first_name = Joao_do_Canto
+	last_name = e_Castro
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1862.5.19
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = admiral
+		earliest_usage_date = 1892.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_admiral_capelo = {
+	dna = dna_hermengildo_capelo
+	first_name = Hermengildo
+	last_name = Capelo
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1841.6.11
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = admiral
+		earliest_usage_date = 1871.1.1
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+por_admiral_ferraz = {
+	dna = dna_guilherme_ferraz
+	first_name = Guilherme
+	last_name = Ivens_Ferraz
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1865.9.14
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = admiral
+		earliest_usage_date = 1895.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+por_general_almeida = {
+
+	first_name = jose_joaquim
+	last_name = almeida
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1777.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1805.1.1
+		latest_usage_date = 1857.1.1
+		chance = 75
+	}
+}
+
+por_general_melo_da_gama = {
+
+	first_name = francisco_de
+	last_name = melo_da_gama_de_araujo_e_azevedo
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1773.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1801.1.1
+		latest_usage_date = 1853.1.1
+		chance = 75
+	}
+}
+
+por_general_baptista = {
+
+	first_name = antonio_maria
+	last_name = baptista
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1866.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1946.1.1
+		chance = 75
+	}
+}
+
+por_general_barjona_de_freitas = {
+
+	first_name = alfredo
+	last_name = barjona_de_freitas
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1860.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1940.1.1
+		chance = 75
+	}
+}
+
+por_general_rego_barreto = {
+
+	first_name = luis_do
+	last_name = rego_barreto
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1777.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1805.1.1
+		latest_usage_date = 1857.1.1
+		chance = 75
+	}
+}
+
+por_general_costa_campos = {
+
+	first_name = jose_da
+	last_name = costa_campos
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1801.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1829.1.1
+		latest_usage_date = 1881.1.1
+		chance = 75
+	}
+}
+
+por_general_saldanha_da_gama = {
+
+	first_name = antonio_de
+	last_name = saldanha_da_gama
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1778.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1806.1.1
+		latest_usage_date = 1858.1.1
+		chance = 75
+	}
+}
+
+por_general_novais_guedes_rebelo = {
+
+	first_name = arnaldo_de
+	last_name = novais_guedes_rebelo
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1847.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1927.1.1
+		chance = 75
+	}
+}
+
+por_general_pereira_pinto_guedes = {
+
+	first_name = luis_vaz
+	last_name = pereira_pinto_guedes
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1770.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1798.1.1
+		latest_usage_date = 1850.1.1
+		chance = 75
+	}
+}
+
+por_general_costa_leal = {
+
+	first_name = fernando_da
+	last_name = costa_leal
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1846.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1874.1.1
+		latest_usage_date = 1926.1.1
+		chance = 75
+	}
+}
+
+por_general_de_sousa = {
+
+	first_name = manuel_antonio
+	last_name = de_sousa
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1835.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1863.1.1
+		latest_usage_date = 1915.1.1
+		chance = 75
+	}
+}
+
+por_general_mouzinho_de_albuquerque = {
+
+	first_name = joaquim_augusto
+	last_name = mouzinho_de_albuquerque
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1855.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1935.1.1
+		chance = 75
+	}
+}
+
+por_general_pimenta_de_castro = {
+
+	first_name = joaquim
+	last_name = pimenta_de_castro
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1846.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1874.1.1
+		latest_usage_date = 1926.1.1
+		chance = 75
+	}
+}
+
+por_general_gaspar = {
+
+	first_name = alfredo_rodrigues
+	last_name = gaspar
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1865.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1893.1.1
+		latest_usage_date = 1945.1.1
+		chance = 75
+	}
+}
+
+por_general_da_silva = {
+
+	first_name = jose_celestino
+	last_name = da_silva
+	historical = yes
+	culture = cu:portuguese
+	female = no
+	birth_date = 1849.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:POR ?= this c:IBE ?= this } }
+		role = general
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1929.1.1
+		chance = 75
+	}
+}
+
+
+

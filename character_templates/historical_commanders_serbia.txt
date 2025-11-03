@@ -1,0 +1,127 @@
+﻿# Serbia - SER
+ser_general_putnik = {
+	dna = dna_radomir_putnik
+	first_name = Radomir
+	last_name = Putnik
+	historical = yes
+	culture = cu:serb
+	female = no
+	birth_date = 1847.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1877.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+ser_general_bojovic = {
+	dna = dna_petar_bojovic
+	first_name = Petar
+	last_name = Bojovic
+	historical = yes
+	culture = cu:serb
+	female = no
+	birth_date = 1858.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+ser_general_stepanovic = {
+	dna = dna_stepa_stepanovic
+	first_name = Stepa
+	last_name = Stepanovic
+	historical = yes
+	culture = cu:serb
+	female = no
+	birth_date = 1856.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1886.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+ser_general_jankovic = {
+	dna = dna_bozidar_jankovic
+	first_name = Bozidar
+	last_name = Jankovic
+	historical = yes
+	culture = cu:serb
+	female = no
+	birth_date = 1849.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1879.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+ser_general_misic = {
+	dna = dna_zivojin_misic
+	first_name = Zivojin
+	last_name = Misic
+	historical = yes
+	culture = cu:serb
+	female = no
+	birth_date = 1855.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1885.1.1
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+ser_general_sturm = {
+	dna = dna_pavle_sturm
+	first_name = Pavle
+	last_name = Jurisic_Sturm
+	historical = yes
+	culture = cu:sorb
+	female = no
+	birth_date = 1848.6.28
+	commander_usage = {
+    country_trigger = {
+        OR = {
+            c:SER ?= this
+            c:YUG ?= this
+    }
+}
+		role = general
+		earliest_usage_date = 1878.1.1
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}

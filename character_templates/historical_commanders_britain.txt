@@ -1,0 +1,1133 @@
+﻿# Great Britain - GBR
+gbr_general_birdwood = {
+	dna = dna_william_birdwood
+	first_name = William
+	last_name = Birdwood
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1865.9.13
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1895.1.4
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+gbr_general_haig = {
+	dna = dna_douglas_haig
+	first_name = Douglas
+	last_name = Haig
+	historical = yes
+	culture = cu:scottish
+	female = no
+	religion = protestant
+	birth_date = 1861.6.19
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1891.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_gough = {
+	dna = dna_hubert_gough
+	first_name = Hubert
+	last_name = de_la_Poer_Gough
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1870.8.12
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1900.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_plumer = {
+	dna = dna_herbert_plumer
+	first_name = Herbert
+	last_name = Plumer
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1857.3.13
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1887.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_horne = {
+	dna = dna_henry_horne
+	first_name = Henry
+	last_name = Horne
+	historical = yes
+	culture = cu:scottish
+	female = no
+	religion = protestant
+	birth_date = 1861.2.19
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1891.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_allenby = {
+	dna = dna_edmund_allenby
+	first_name = Edmund
+	last_name = Allenby
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1861.4.23
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1891.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_wilson = {
+	dna = dna_henry_wilson
+	first_name = Henry
+	last_name = Wilson
+	historical = yes
+	culture = cu:irish
+	female = no
+	birth_date = 1864.5.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1894.1.4
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+gbr_general_robertson = {
+	dna = dna_william_robertson
+	first_name = William
+	last_name = Robertson
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1860.1.29
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1890.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_milne = {
+	dna = dna_george_milne
+	first_name = George
+	last_name = Milne
+	historical = yes
+	culture = cu:scottish
+	female = no
+	religion = protestant
+	birth_date = 1866.11.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1896.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_lambart = {
+	dna = dna_rudolph_lambart
+	first_name = Rudolph
+	last_name = Lambart
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1865.10.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1895.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_wemyss = {
+	dna = dna_rosslyn_wemyss
+	first_name = Rosslyn
+	last_name = Wemyss
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1864.4.12
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1894.3.13
+		latest_usage_date = 1915.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_jellicoe = {
+	dna = dna_john_jellicoe
+	first_name = John
+	last_name = Jellicoe
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1859.12.5
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1889.3.13
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_madden = {
+	dna = dna_charles_madden
+	first_name = Charles
+	last_name = Madden
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1862.4.30
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1892.3.13
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_sturdee = {
+	dna = dna_doveton_sturdee
+	first_name = Doveton
+	last_name = Sturdee
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1859.6.9
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1889.3.13
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_burney = {
+	dna = dna_cecil_burney
+	first_name = Cecil
+	last_name = Burney
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1858.5.15
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1888.3.13
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_tyrwhitt = {
+	dna = dna_reginald_tyrwhitt
+	first_name = Reginald
+	last_name = Tyrwhitt
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1870.5.10
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1900.3.13
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_keyes = {
+	dna = dna_roger_keyes
+	first_name = Roger
+	last_name = Keyes
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1872.10.4
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1902.3.13
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_robeck = {
+	dna = dna_john_robeck
+	first_name = John
+	last_name = de_Robeck
+	historical = yes
+	culture = cu:irish
+	female = no
+	religion = protestant
+	birth_date = 1862.6.10
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1892.3.13
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_lawrence = {
+	dna = dna_thomas_lawrence
+	first_name = Thomas
+	last_name = Edward_Lawrence
+	historical = yes
+	culture = cu:british
+	female = no
+	religion = protestant
+	birth_date = 1888.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1914.1.4
+		latest_usage_date = 1930.1.1	
+		chance = 75
+	}
+}
+gbr_general_cureton = {
+	first_name = Charles
+	last_name = Cureton
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1789.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1819.1.4
+		latest_usage_date = 1869.1.1	
+		chance = 75
+	}
+}
+gbr_general_outram = {
+	first_name = James
+	last_name = Outram
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1803.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1833.1.4
+		latest_usage_date = 1869.1.1	
+		chance = 75
+	}
+}
+gbr_general_straubenzee = {
+	first_name = Charles
+	last_name = Straubenzee
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1812.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1842.1.4
+		latest_usage_date = 1890.1.1	
+		chance = 75
+	}
+}
+gbr_general_grant = {
+	first_name = James
+	last_name = Hope_Grant
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1808.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1838.1.4
+		latest_usage_date = 1879.1.1	
+		chance = 75
+	}
+}
+gbr_general_thesiger = {
+	first_name = Fredericc
+	last_name = Thesiger
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1827.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1857.1.4
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+gbr_general_wood = {
+	first_name = Evelyn
+	last_name = Wood
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1838.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1868.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_booth = {
+	first_name = Anthony
+	last_name = Booth
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1846.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1876.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_chard = {
+	first_name = John_Rouse
+	last_name = Chard
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1847.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1877.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_buller = {
+	first_name = Redvers
+	last_name = Buller
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1839.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1869.1.4
+		latest_usage_date = 1910.1.1	
+		chance = 75
+	}
+}
+gbr_general_hardinge = {
+	first_name = Henry
+	last_name = Hardinge
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1785.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1830.1.4
+		latest_usage_date = 1860.1.1	
+		chance = 75
+	}
+}
+gbr_general_campbell = {
+	first_name = Colin
+	last_name = Campbell
+	historical = yes
+	culture = cu:scottish
+	female = no
+	birth_date = 1792.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1830.1.4
+		latest_usage_date = 1872.1.1	
+		chance = 75
+	}
+}
+gbr_general_colley = {
+	first_name = George
+	last_name = Colley
+	historical = yes
+	culture = cu:irish
+	female = no
+	birth_date = 1835.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1865.1.4
+		latest_usage_date = 1900.1.1	
+		chance = 75
+	}
+}
+gbr_general_methuen = {
+	first_name = Paul
+	last_name = Methuen
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1845.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1875.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_wauchope = {
+	first_name = Andrew
+	last_name = Wauchope
+	historical = yes
+	culture = cu:scottish
+	female = no
+	birth_date = 1846.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1875.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_symons = {
+	first_name = William
+	last_name = Symons
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1843.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1873.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_woodgate = {
+	first_name = Edward
+	last_name = Woodgate
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1845.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1873.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_rawlinson = {
+	first_name = Henry
+	last_name = Rawlinson
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1864.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1892.1.4
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+gbr_general_douglas = {
+	first_name = Charles
+	last_name = Douglas
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1850.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1880.1.4
+		latest_usage_date = 1920.1.1	
+		chance = 75
+	}
+}
+gbr_general_lambart = {
+	first_name = Rudolph
+	last_name = Lambart
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1865.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1895.1.4
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+gbr_general_maude = {
+	first_name = Stanley
+	last_name = Maude
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1864.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = general
+		earliest_usage_date = 1894.1.4
+		latest_usage_date = 1936.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_elliot = {
+	first_name = Charles
+	last_name = Elliot
+	historical = yes
+	culture = cu:scottish
+	female = no
+	birth_date = 1801.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1831.1.4
+		latest_usage_date = 1871.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_elliott = {
+	first_name = George
+	last_name = Elliot
+	historical = yes
+	culture = cu:scottish
+	female = no
+	birth_date = 1784.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1831.1.4
+		latest_usage_date = 1860.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_parker = {
+	first_name = William
+	last_name = Parker
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1781.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1831.1.4
+		latest_usage_date = 1860.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_parker = {
+	first_name = William
+	last_name = Parker
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1781.8.16
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1831.1.4
+		latest_usage_date = 1860.1.1	
+		chance = 75
+	}
+}
+gbr_admiral_berkeley = {
+	first_name = Maurice
+	last_name = Berkeley
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1788.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1816.1.1
+		latest_usage_date = 1868.1.1
+		chance = 75
+	}
+}
+gbr_admiral_grey = {
+	first_name = Frederick
+	last_name = Grey
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1805.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1833.1.1
+		latest_usage_date = 1885.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_dacres = {
+	first_name = Sydney
+	last_name = Dacres
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1804.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1832.1.1
+		latest_usage_date = 1884.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_yelverton = {
+	first_name = Hastings
+	last_name = Yelverton
+	historical = yes
+	culture = cu:irish
+	female = no
+	birth_date = 1808.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1836.1.1
+		latest_usage_date = 1888.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_wellesley = {
+	first_name = George
+	last_name = Wellesley
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1814.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1842.1.1
+		latest_usage_date = 1894.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_hood = {
+	first_name = Arthur
+	last_name = Hood
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1824.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1852.1.1
+		latest_usage_date = 1904.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_bridgeman = {
+	first_name = Francis
+	last_name = Bridgeman
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1848.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1876.1.1
+		latest_usage_date = 1928.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_jackson = {
+	first_name = Henry
+	last_name = Jackson
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1855.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1883.1.1
+		latest_usage_date = 1935.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_beatty = {
+	first_name = David
+	last_name = Beatty
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1871.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1951.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_field = {
+	first_name = Frederick
+	last_name = Field
+	historical = yes
+	culture = cu:irish
+	female = no
+	birth_date = 1871.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1899.1.1
+		latest_usage_date = 1951.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_chatfield = {
+	first_name = Ernle
+	last_name = Chatfield
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1873.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1901.1.1
+		latest_usage_date = 1953.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_kerr = {
+	first_name = Walter
+	last_name = Kerr
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1839.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1867.1.1
+		latest_usage_date = 1919.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_hamilton = {
+	first_name = Vesey
+	last_name = Hamilton
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1829.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1857.1.1
+		latest_usage_date = 1909.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_hoskins = {
+	first_name = Anthony
+	last_name = Hoskins
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1828.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1856.1.1
+		latest_usage_date = 1908.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_hay = {
+	first_name = John
+	last_name = Hay
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1827.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1855.1.1
+		latest_usage_date = 1907.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_keppel = {
+	first_name = Henry
+	last_name = Keppel
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1809.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1837.1.1
+		latest_usage_date = 1889.1.1
+		chance = 75
+	}
+}
+
+gbr_admiral_hornby = {
+	first_name = Geoffrey
+	last_name = Hornby
+	historical = yes
+	culture = cu:british
+	female = no
+	birth_date = 1825.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:GBR
+			this = c:GBR
+		}
+		role = admiral
+		earliest_usage_date = 1853.1.1
+		latest_usage_date = 1905.1.1
+		chance = 75
+	}
+}

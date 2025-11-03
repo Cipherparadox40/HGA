@@ -1,0 +1,361 @@
+﻿per_general_danesh = {
+	dna = dna_reza_danesh
+	first_name = Reza_Khan
+	last_name = Arfa_Danesh
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1846.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1871.1.1
+		latest_usage_date = 1927.1.1	
+		chance = 75
+	}
+}
+per_general_ghaffari = {
+	dna = dna_mohammed_ghaffari
+	first_name = Mohammed_Ebrahim
+	last_name = Khan_Ghaffari
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1859.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1918.1.1	
+		chance = 75
+	}
+}
+per_general_setkhanian = {
+	dna = dna_iskandar_setkhanian
+	first_name = Iskandar_Khan
+	last_name = Setkhanian
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1865.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1890.1.1
+		latest_usage_date = 1940.1.1	
+		chance = 75
+	}
+}
+per_general_vali = {
+	dna = dna_ghassem_vali
+	first_name = Ghassem
+	last_name = Khan_Vali
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1874.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1933.1.1	
+		chance = 75
+	}
+}
+per_general_martiros = {
+	dna = dna_martiros_davidkhanian
+	first_name = Martiros
+	last_name = Khan_Davidkhanian
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1843.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1868.1.1
+		latest_usage_date = 1905.1.1	
+		chance = 75
+	}
+}
+per_general_eskandar = {
+	dna = dna_eskandar_davidkhanian
+	first_name = Eskandar
+	last_name = Khan_Davidkhanian
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1863.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1888.1.1
+		latest_usage_date = 1921.1.1	
+		chance = 75
+	}
+}
+per_general_ayrom = {
+	dna = dna_mohammed_ayrom
+	first_name = Mohammed_Hosayn
+	last_name = Ayrom
+	historical = yes
+	culture = cu:azerbaijani
+	female = no
+	birth_date = 1882.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1902.1.1
+		latest_usage_date = 1943.1.1	
+		chance = 75
+	}
+}
+per_general_tahmasebi = {
+	dna = dna_amir_tahmasebi
+	first_name = Amir_Abdollah
+	last_name = Tahmasebi
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1881.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1901.1.1
+		latest_usage_date = 1928.1.1	
+		chance = 75
+	}
+}
+per_general_buzarjomehri = {
+	dna = dna_karim_buzarjomehri
+	first_name = Karim
+	last_name = Buzarjomehri
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1886.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1906.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_jahanbani = {
+	dna = dna_amanullah_jahanbani
+	first_name = Amanullah
+	last_name = Jahanbani
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1891.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1911.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_ahmadi = {
+	dna = dna_ahmad_ahmadi
+	first_name = Ahmad
+	last_name = Amir_Ahmadi
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1884.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1904.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_hosseinpour = {
+	dna = dna_assadollah_hosseinpour
+	first_name = Assadollah
+	last_name = Hosseinpour
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1882.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1902.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_zahedi = {
+	dna = dna_fazlollah_zahedi
+	first_name = Fazlollah
+	last_name = Zahedi
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1892.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1912.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_arfa = {
+	dna = dna_hasan_arfa
+	first_name = Hasan
+	last_name = Arfa
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1895.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1951.1.1	
+		chance = 75
+	}
+}
+per_general_liakhov = {
+	dna = dna_vladimir_liakhov
+	first_name = Vladimir
+	last_name = Liakhov
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1869.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1894.1.1
+		latest_usage_date = 1919.1.1	
+		chance = 75
+	}
+}
+per_general_kassogovsky = {
+	dna = dna_vladimir_kassogovsky
+	first_name = Vladimir
+	last_name = Kassogovsky
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1857.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1882.1.1
+		latest_usage_date = 1918.1.1	
+		chance = 75
+	}
+}
+per_general_mirza = {
+	dna = dna_mohammad_mirza
+	first_name = Mohammad
+	last_name = Hassan_Mirza
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1899.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1919.1.1
+		latest_usage_date = 1943.1.1	
+		chance = 75
+	}
+}
+per_general_pessian = {
+	dna = dna_mohammad_pessian
+	first_name = Mohammad_Taqi
+	last_name = Pessian
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1892.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1912.1.1
+		latest_usage_date = 1921.1.1	
+		chance = 75
+	}
+}
+per_general_tsatur = {
+	dna = dna_tsatur_khan
+	first_name = Tsatur
+	last_name = Khan
+	historical = yes
+	culture = cu:persian
+	female = no
+	birth_date = 1820.12.31
+	commander_usage = {
+		country_trigger = {
+			exists = c:PER
+			this = c:PER
+		}
+		role = general
+		earliest_usage_date = 1845.1.1
+		latest_usage_date = 1895.1.1	
+		chance = 75
+	}
+}
