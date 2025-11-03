@@ -327,7 +327,7 @@ bel_general_storms = {
 	first_name = emile
 	last_name = storms
 	historical = yes
-	culture = cu:wallonian
+	culture = cu:flemish
 	female = no
 	birth_date = 1846.1.1
 	commander_usage = {
@@ -584,6 +584,25 @@ bel_general_van_strydonck = {
 		role = general
 		earliest_usage_date = 1904.1.1
 		latest_usage_date = 1956.1.1
+		chance = 75
+	}
+}
+
+bel_general_de_neve_de_roden = {
+
+	first_name = maximilien
+	last_name = de_neve_de_roden
+	historical = yes
+	culture = cu:flemish
+	female = no
+	birth_date = 1878.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1945.1.1
 		chance = 75
 	}
 }
