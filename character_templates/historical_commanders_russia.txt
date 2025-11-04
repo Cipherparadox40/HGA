@@ -740,25 +740,25 @@ rus_admiral_avellan = {
 		chance = 75
 	}
 }
-rus_admiral_kolchak = {
-    dna = dna_alexander_kolchak
-	first_name = Alexander
-	last_name = Kolchak
-	historical = yes
-	culture = cu:russian
-	female = no
-	birth_date = 1874.1.26
-	commander_usage = {
-		country_trigger = {
-			exists = c:RUS
-			this = c:RUS
-		}
-		role = admiral
-		earliest_usage_date = 1899.1.1
-		latest_usage_date = 1920.1.1	
-		chance = 75
-	}
-}
+#rus_admiral_kolchak = { #already in use in vanillia
+#    dna = dna_alexander_kolchak
+#	first_name = Alexander
+#	last_name = Kolchak
+#	historical = yes
+#	culture = cu:russian
+#	female = no
+#	birth_date = 1874.1.26
+#	commander_usage = {
+#		country_trigger = {
+#			exists = c:RUS
+#			this = c:RUS
+#		}
+#		role = admiral
+#		earliest_usage_date = 1899.1.1
+#		latest_usage_date = 1920.1.1
+#		chance = 75
+#	}
+#}
 rus_admiral_kulchitsky = {
     dna = dna_lev_kulchitsky
 	first_name = Lev
