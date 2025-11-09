@@ -1085,7 +1085,140 @@ fra_general_pretelat = {
 			this = c:FRA
 		}
 		role = general
-		earliest_usage_date = 1922.1.1
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_general_georges = {
+	first_name = alphonse_joseph
+	last_name = georges
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1875.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_general_gamelin = {
+	first_name = maurice
+	last_name = gamelin
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1872.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_general_altmayer  = {
+	first_name = robert
+	last_name = altmayer
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1875.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_general_frere  = {
+	first_name = aubert
+	last_name = frere
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1882.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_admiral_abrial = {
+	first_name = jean_marie_charles
+	last_name = abrial
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1879.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = admiral
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+fra_admiral_de_laborde = {
+	first_name = jean
+	last_name = de_laborde
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1878.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = admiral
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+ra_admiral_darlan = {
+	first_name = francois
+	last_name = darlan
+	historical = yes
+	culture = cu:french
+	female = no
+	birth_date = 1881.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:FRA
+			this = c:FRA
+		}
+		role = admiral
+		earliest_usage_date = 1920.1.1
 		latest_usage_date = 1950.1.1
 		chance = 75
 	}

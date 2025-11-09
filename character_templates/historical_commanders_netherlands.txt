@@ -13,8 +13,8 @@ net_general_winkelman = {
 			this = c:NET
 		}
 		role = general
-		earliest_usage_date = 1906.1.1
-		latest_usage_date = 1930.1.1	
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
 		chance = 75
 	}
 }
@@ -943,7 +943,24 @@ net_general_van_der_vijver = {
 	commander_usage = {
 		country_trigger = { OR = { c:NET ?= this c:UNL ?= this } }
 		role = general
-		earliest_usage_date = 1925.1.1
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+net_general_van_voorst_tot_voorst = {
+
+	first_name = godfried
+	last_name = van_voorst_tot_voorst
+	historical = yes
+	culture = cu:dutch
+	female = no
+	birth_date = 1880.1.1
+	commander_usage = {
+		country_trigger = { OR = { c:NET ?= this c:UNL ?= this } }
+		role = general
+		earliest_usage_date = 1920.1.1
 		latest_usage_date = 1950.1.1
 		chance = 75
 	}
