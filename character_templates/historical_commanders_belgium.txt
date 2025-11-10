@@ -582,7 +582,7 @@ bel_general_van_strydonck = {
 			OR = { c:BEL ?= this c:UNL ?= this }
 		}
 		role = general
-		earliest_usage_date = 1904.1.1
+		earliest_usage_date = 1910.1.1
 		latest_usage_date = 1956.1.1
 		chance = 75
 	}
@@ -603,6 +603,44 @@ bel_general_de_neve_de_roden = {
 		role = general
 		earliest_usage_date = 1910.1.1
 		latest_usage_date = 1945.1.1
+		chance = 75
+	}
+}
+
+bel_general_nuyten = {
+
+	first_name = prudent
+	last_name = nuyten
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1874.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1907.1.1
+		latest_usage_date = 1945.1.1
+		chance = 75
+	}
+}
+
+bel_general_galet = {
+
+	first_name = emile
+	last_name = galet
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1870.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1940.1.1
 		chance = 75
 	}
 }

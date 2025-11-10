@@ -1710,3 +1710,32 @@ aus_general_dobrzensky_von_dobrzenitz = {
 		chance = 75
 	}
 }
+
+aus_admiral_singule = {
+	first_name = rudolf
+	last_name = singule
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1883.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = {
+					exists = c:AUS
+					this = c:AUS
+				}
+				AND = {
+					NOT = { exists = c:AUS }
+					exists = c:GER
+					this = c:GER
+					c:GER = { owns_entire_state_region = STATE_AUSTRIA }
+				}
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}

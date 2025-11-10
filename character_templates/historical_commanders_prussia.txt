@@ -1944,36 +1944,6 @@ pru_general_von_kluge = {
 	}
 }
 
-
-pru_general_von_hindenburg = {
-	first_name = paul
-	last_name = von_hindenburg
-	historical = yes
-	culture = cu:north_german
-	female = no
-	birth_date = 1847.1.1
-		commander_usage = {
-		country_trigger = {
-			OR = {
-				AND = {
-					exists = c:PRU
-					this = c:PRU
-				}
-				AND = {
-					NOT = { exists = c:PRU }
-					exists = c:GER
-					this = c:GER
-					c:GER = { owns_entire_state_region = STATE_BRANDENBURG }
-				}
-			}
-		}
-		role = general
-		earliest_usage_date = 1885.1.1
-		latest_usage_date = 1925.1.1
-		chance = 75
-	}
-}
-
 pru_general_von_eichhorn = {
 	first_name = hermann
 	last_name = von_eichhorn
@@ -1999,35 +1969,6 @@ pru_general_von_eichhorn = {
 		role = general
 		earliest_usage_date = 1885.1.1
 		latest_usage_date = 1920.1.1
-		chance = 75
-	}
-}
-
-pru_general_ludendorff = {
-	first_name = erich
-	last_name = ludendorff
-	historical = yes
-	culture = cu:north_german
-	female = no
-	birth_date = 1865.1.1
-		commander_usage = {
-		country_trigger = {
-			OR = {
-				AND = {
-					exists = c:PRU
-					this = c:PRU
-				}
-				AND = {
-					NOT = { exists = c:PRU }
-					exists = c:GER
-					this = c:GER
-					c:GER = { owns_entire_state_region = STATE_BRANDENBURG }
-				}
-			}
-		}
-		role = general
-		earliest_usage_date = 1905.1.1
-		latest_usage_date = 1935.1.1
 		chance = 75
 	}
 }
@@ -2260,35 +2201,6 @@ pru_admiral_saalwachter = {
 		role = admiral
 		earliest_usage_date = 1920.1.1
 		latest_usage_date = 1950.1.1
-		chance = 75
-	}
-}
-
-pru_admiral_von_tirpitz = {
-	first_name = alfred
-	last_name = von_tirpitz
-	historical = yes
-	culture = cu:north_german
-	female = no
-	birth_date = 1849.1.1
-		commander_usage = {
-		country_trigger = {
-			OR = {
-				AND = {
-					exists = c:PRU
-					this = c:PRU
-				}
-				AND = {
-					NOT = { exists = c:PRU }
-					exists = c:GER
-					this = c:GER
-					c:GER = { owns_entire_state_region = STATE_BRANDENBURG }
-				}
-			}
-		}
-		role = admiral
-		earliest_usage_date = 1881.1.1
-		latest_usage_date = 1920.1.1
 		chance = 75
 	}
 }
