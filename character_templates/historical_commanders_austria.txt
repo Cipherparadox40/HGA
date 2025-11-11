@@ -1739,3 +1739,61 @@ aus_admiral_singule = {
 		chance = 75
 	}
 }
+
+aus_general_von_schaffgotsch = {
+	first_name = johann_franz
+	last_name = von_schaffgotsch
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1792.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = {
+					exists = c:AUS
+					this = c:AUS
+				}
+				AND = {
+					NOT = { exists = c:AUS }
+					exists = c:GER
+					this = c:GER
+					c:GER = { owns_entire_state_region = STATE_AUSTRIA }
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1835.1.1
+		latest_usage_date = 1865.1.1
+		chance = 75
+	}
+}
+
+aus_general_von_hauslab = {
+	first_name = franz
+	last_name = von_hauslab
+	historical = yes
+	culture = cu:south_german
+	female = no
+	birth_date = 1798.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				AND = {
+					exists = c:AUS
+					this = c:AUS
+				}
+				AND = {
+					NOT = { exists = c:AUS }
+					exists = c:GER
+					this = c:GER
+					c:GER = { owns_entire_state_region = STATE_AUSTRIA }
+				}
+			}
+		}
+		role = general
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1875.1.1
+		chance = 75
+	}
+}

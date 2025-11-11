@@ -755,6 +755,7 @@ ubd_admiral_von_folkersahm = {
 }
 
 ubd_admiral_von_lieven = {
+    dna = dna_alexander_lieven
 	first_name = alexander
 	last_name = von_lieven
 	historical = yes

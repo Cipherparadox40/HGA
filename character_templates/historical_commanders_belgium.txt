@@ -644,3 +644,79 @@ bel_general_galet = {
 		chance = 75
 	}
 }
+
+bel_general_de_looz_corswarem = {
+
+	first_name = hippolyte
+	last_name = de_looz_corswarem
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1817.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1852.1.1
+		latest_usage_date = 1884.1.1
+		chance = 75
+	}
+}
+
+bel_general_de_selliers_de_moranville = {
+
+	first_name = antonin
+	last_name = de_selliers_de_moranville
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1852.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1920.1.1
+		chance = 75
+	}
+}
+
+bel_general_eenens = {
+
+	first_name = alexis
+	last_name = eenens
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1805.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1842.1.1
+		latest_usage_date = 1875.1.1
+		chance = 75
+	}
+}
+
+bel_general_renard = {
+
+	first_name = bruno
+	last_name = renard
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1804.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1842.1.1
+		latest_usage_date = 1875.1.1
+		chance = 75
+	}
+}

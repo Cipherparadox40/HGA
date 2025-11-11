@@ -816,25 +816,25 @@ rus_admiral_butakov = {
 		chance = 75
 	}
 }
-rus_admiral_lieven = {
-    dna = dna_alexander_lieven
-	first_name = Alexander
-	last_name = Lieven
-	historical = yes
-	culture = cu:east_german
-	female = no
-	birth_date = 1860.1.26
-	commander_usage = {
-		country_trigger = {
-			exists = c:RUS
-			this = c:RUS
-		}
-		role = admiral
-		earliest_usage_date = 1890.1.1
-		latest_usage_date = 1920.1.1	
-		chance = 75
-	}
-}
+#rus_admiral_lieven = { #moved to batlic file
+#    dna = dna_alexander_lieven
+#	first_name = Alexander
+#	last_name = Lieven
+#	historical = yes
+#	culture = cu:east_german
+#	female = no
+#	birth_date = 1860.1.26
+#	commander_usage = {
+#		country_trigger = {
+#			exists = c:RUS
+#			this = c:RUS
+#		}
+#		role = admiral
+#		earliest_usage_date = 1890.1.1
+#		latest_usage_date = 1920.1.1
+#		chance = 75
+#	}
+#}
 rus_admiral_schantz = {
     dna = dna_johan_schantz
 	first_name = Johan
@@ -1267,6 +1267,276 @@ rus_admiral_bubnov = { #Александр Дмитриевич Бубнов
 		role = admiral
 		earliest_usage_date = 1912.1.1
 		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+rus_general_denikin = {
+	first_name = anton
+	last_name = denikin
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1872.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1915.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+rus_general_gorchakov = {
+	first_name = mikhail
+	last_name = gorchakov
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1793.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1835.1.1
+		latest_usage_date = 1862.1.1
+		chance = 75
+	}
+}
+rus_general_muravyov_karsky = {
+	first_name = nikolay
+	last_name = muravyov_karsky
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1794.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1835.1.1
+		latest_usage_date = 1866.1.1
+		chance = 75
+	}
+}
+rus_general_sukhozanet = {
+	first_name = nikolai
+	last_name = sukhozanet
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1794.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1835.1.1
+		latest_usage_date = 1866.1.1
+		chance = 75
+	}
+}
+rus_general_ivashentsov = { #Сергей Николаевич Ивашенцов (Ивашинцев)
+	first_name = sergey
+	last_name = ivashentsov
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1801.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1839.1.1
+		latest_usage_date = 1870.1.1
+		chance = 75
+	}
+}
+rus_general_stepanov = { #Пётр Алекса́ндрович Степа́нов
+	first_name = pyotr
+	last_name = stepanov
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1805.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1890.1.1
+		chance = 75
+	}
+}
+rus_general_stolpakov = { #Николай Алексеевич Столпаков
+	first_name = nikolai
+	last_name = stolpakov
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1807.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = general
+		earliest_usage_date = 1841.1.1
+		latest_usage_date = 1871.1.1
+		chance = 75
+	}
+}
+rus_admiral_khrushchev = { #Степа́н Петро́вич Хрущо́в
+	first_name = stepan
+	last_name = khrushchev
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1791.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1834.1.1
+		latest_usage_date = 1865.1.1
+		chance = 75
+	}
+}
+rus_admiral_yukharin = { #Павел Матвеевич Юхарин
+	first_name = pavel
+	last_name = yukharin
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1796.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1876.1.1
+		chance = 75
+	}
+}
+rus_admiral_litke = { #Фёдор Петро́вич Ли́тке
+	first_name = fyodor
+	last_name = litke
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1797.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1840.1.1
+		latest_usage_date = 1881.1.1
+		chance = 75
+	}
+}
+rus_admiral_bezuar = { #Виктор Александрович Безуар
+	first_name = victor
+	last_name = bezuar
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1841.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1872.1.1
+		latest_usage_date = 1905.1.1
+		chance = 75
+	}
+}
+rus_admiral_hildebrandt = {
+	first_name = yakov
+	last_name = hildebrandt
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1842.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1873.1.1
+		latest_usage_date = 1910.1.1
+		chance = 75
+	}
+}
+rus_admiral_alexandrovi = { #Алексе́й Алекса́ндрови
+	first_name = alexey
+	last_name = alexandrovi
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1850.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1881.1.1
+		latest_usage_date = 1912.1.1
+		chance = 75
+	}
+}
+rus_admiral_matusevich = { #Никола́й Алекса́ндрович Матусе́вич
+	first_name = nikolai
+	last_name = matusevich
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1852.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1884.1.1
+		latest_usage_date = 1915.1.1
+		chance = 75
+	}
+}
+rus_admiral_istomin = { #Константи́н Ива́нович Исто́мин
+	first_name = konstantin
+	last_name = istomin
+	historical = yes
+	culture = cu:russian
+	female = no
+	birth_date = 1805.1.1
+	commander_usage = {
+		country_trigger = {
+			exists = c:RUS
+			this = c:RUS
+		}
+		role = admiral
+		earliest_usage_date = 1841.1.1
+		latest_usage_date = 1876.1.1
 		chance = 75
 	}
 }

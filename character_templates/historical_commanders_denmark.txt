@@ -1042,8 +1042,53 @@ den_general_with = {
 			}
 		}
 		role = general
-		earliest_usage_date = 1903.1.1
+		earliest_usage_date = 1910.1.1
 		latest_usage_date = 1956.1.1
+		chance = 75
+	}
+}
+
+den_general_rye = {
+
+	first_name = charles
+	last_name = rye
+	historical = yes
+	culture = cu:danish
+	female = no
+	birth_date = 1874.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:DEN ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+
+den_admrial_hansen = {
+
+	first_name = godfred
+	last_name = hansen
+	historical = yes
+	culture = cu:danish
+	female = no
+	birth_date = 1876.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:DEN ?= this
+				c:SCA ?= this
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1905.1.1
+		latest_usage_date = 1940.1.1
 		chance = 75
 	}
 }
