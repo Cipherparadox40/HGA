@@ -865,3 +865,136 @@ nor_general_haug = {
 		chance = 75
 	}
 }
+
+nor_admiral_diesen = {
+
+	first_name = henry
+	last_name = diesen
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1883.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = admiral
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+nor_general_steffens = {
+
+	first_name = william
+	last_name = steffens
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1880.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
+		chance = 75
+	}
+}
+
+nor_general_gulbranson = {
+
+	first_name = carl_hagbarth
+	last_name = gulbranson
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1870.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1910.1.1
+		latest_usage_date = 1940.1.1
+		chance = 75
+	}
+}
+
+nor_general_birch = {
+
+	first_name = paul_hansen
+	last_name = birch
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1888.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1830.1.1
+		latest_usage_date = 1865.1.1
+		chance = 75
+	}
+}
+
+
+nor_general_holst = {
+
+	first_name = peter
+	last_name = holst
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1843.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1905.1.1
+		chance = 75
+	}
+}
+
+nor_general_nissen = {
+
+	first_name = per_schjelderup
+	last_name = nissen
+	historical = yes
+	culture = cu:norwegian
+	female = no
+	birth_date = 1844.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = {
+				c:NOR ?= this
+				c:SCA ?= this
+			}
+		}
+		role = general
+		earliest_usage_date = 1875.1.1
+		latest_usage_date = 1910.1.1
+		chance = 75
+	}
+}
