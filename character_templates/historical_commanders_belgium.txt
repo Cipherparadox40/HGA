@@ -417,24 +417,24 @@ bel_general_chazal = {
 	}
 }
 
-bel_general_denis = {
-
-	first_name = henri
-	last_name = denis
-	historical = yes
-	culture = cu:wallonian
-	female = no
-	birth_date = 1877.1.1
-	commander_usage = {
-		country_trigger = {
-			OR = { c:BEL ?= this c:UNL ?= this }
-		}
-		role = general
-		earliest_usage_date = 1905.1.1
-		latest_usage_date = 1957.1.1
-		chance = 75
-	}
-}
+#bel_general_denis = { #Added as IG leader in ecchi redux
+#
+#	first_name = henri
+#	last_name = denis
+#	historical = yes
+#	culture = cu:wallonian
+#	female = no
+#	birth_date = 1877.1.1
+#	commander_usage = {
+#		country_trigger = {
+#			OR = { c:BEL ?= this c:UNL ?= this }
+#		}
+#		role = general
+#		earliest_usage_date = 1905.1.1
+#		latest_usage_date = 1957.1.1
+#		chance = 75
+#	}
+#}
 
 bel_general_ermens = {
 
@@ -717,6 +717,25 @@ bel_general_renard = {
 		role = general
 		earliest_usage_date = 1842.1.1
 		latest_usage_date = 1875.1.1
+		chance = 75
+	}
+}
+
+bel_general_van_den_bergen = {
+
+	first_name = eduard
+	last_name = van_den_bergen
+	historical = yes
+	culture = cu:wallonian
+	female = no
+	birth_date = 1881.1.1
+	commander_usage = {
+		country_trigger = {
+			OR = { c:BEL ?= this c:UNL ?= this }
+		}
+		role = general
+		earliest_usage_date = 1920.1.1
+		latest_usage_date = 1950.1.1
 		chance = 75
 	}
 }
