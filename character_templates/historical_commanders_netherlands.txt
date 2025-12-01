@@ -677,22 +677,22 @@ net_general_rooseboom = {
 	}
 }
 
-net_general_snijders = {
-
-	first_name = cornelis_jacobus
-	last_name = snijders
-	historical = yes
-	culture = cu:dutch
-	female = no
-	birth_date = 1852.1.1
-	commander_usage = {
-		country_trigger = { OR = { c:NET ?= this c:UNL ?= this } }
-		role = general
-		earliest_usage_date = 1880.1.1
-		latest_usage_date = 1932.1.1
-		chance = 75
-	}
-}
+#net_general_snijders = { #already in Ecchi
+#
+#	first_name = cornelis_jacobus
+#	last_name = snijders
+#	historical = yes
+#	culture = cu:dutch
+#	female = no
+#	birth_date = 1852.1.1
+#	commander_usage = {
+#		country_trigger = { OR = { c:NET ?= this c:UNL ?= this } }
+#		role = general
+#		earliest_usage_date = 1880.1.1
+#		latest_usage_date = 1932.1.1
+#		chance = 75
+#	}
+#}
 
 net_general_pop = {
 

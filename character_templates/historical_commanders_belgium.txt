@@ -189,24 +189,24 @@ bel_general_goffinet = {
 	}
 }
 
-bel_general_brialmont = {
-
-	first_name = henri_alexis
-	last_name = brialmont
-	historical = yes
-	culture = cu:wallonian
-	female = no
-	birth_date = 1821.1.1
-	commander_usage = {
-		country_trigger = {
-			OR = { c:BEL ?= this c:UNL ?= this }
-		}
-		role = general
-		earliest_usage_date = 1849.1.1
-		latest_usage_date = 1901.1.1
-		chance = 75
-	}
-}
+#bel_general_brialmont = { #already in Ecchi
+#
+#	first_name = henri_alexis
+#	last_name = brialmont
+#	historical = yes
+#	culture = cu:wallonian
+#	female = no
+#	birth_date = 1821.1.1
+#	commander_usage = {
+#		country_trigger = {
+#			OR = { c:BEL ?= this c:UNL ?= this }
+#		}
+#		role = general
+#		earliest_usage_date = 1849.1.1
+#		latest_usage_date = 1901.1.1
+#		chance = 75
+#	}
+#}
 
 bel_general_gratry = {
 
